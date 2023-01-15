@@ -1,0 +1,7 @@
+.nav{
+   /* border: 1px solid black; */
+   height: 200px;
+   display: flex;
+   gap:1000px
+   /* color: blue; */
+}

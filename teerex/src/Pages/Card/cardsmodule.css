@@ -1,0 +1,18 @@
+/* 
+.cardcss{
+    border: 1px solid black;
+    
+} */
+
+.cardflex{
+    display: flex;
+    gap: 90px;
+    /* border: 1px solid black; */
+    padding-left: 20px;
+}
+
+img{
+  width: 300px;
+  height: 300px;    
+}
+
